@@ -7,4 +7,4 @@ for i in range(1,10):
 
 #다른코드
 #for i in range(1,10):
-    print(N, "*", i, "=", N*i)
+#    print(N, "*", i, "=", N*i)
